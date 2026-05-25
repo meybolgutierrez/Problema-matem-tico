@@ -1,4 +1,5 @@
 Sistema Inteligente de Control de Agua
+Estudiante: Meybol Yara Gutierrez Calle
 
 ## Problema real
 En Bolivia, especialmente en La Paz y el Altiplano, la escasez de agua y el racionamiento afectan a miles de familias. El desperdicio y la falta de previsión agravan la situación.
